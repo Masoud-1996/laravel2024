@@ -1,4 +1,4 @@
-@props(['url' => '/', 'active' => false, 'icon' => null, 'mobile' => null])
+@props(['url' => '/', 'active' => false, 'icon' => null, 'mobile' => false])
 
 
 @if ($mobile)
